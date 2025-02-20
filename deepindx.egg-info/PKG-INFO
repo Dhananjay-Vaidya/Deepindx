@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: deepindx
+Version: 0.1.0
+Summary: DeepindX: An advanced deep learning library featuring NAS, Transfer Learning, Explainability, and Compression.
+Home-page: https://github.com/yourusername/deepindx
+Author: Dhananjay
+Author-email: your.email@example.com
+License: UNKNOWN
+Project-URL: Documentation, https://github.com/yourusername/deepindx/wiki
+Project-URL: Source, https://github.com/yourusername/deepindx
+Project-URL: Tracker, https://github.com/yourusername/deepindx/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: docs
+License-File: LICENSE
+
+# DeepindX
+
+**DeepindX** is an advanced deep learning library featuring Neural Architecture Search (NAS), Transfer Learning, Model Explainability, and Compression techniques.
+
+## 🚀 Features
+- **NAS**: Automated Neural Architecture Search with Reinforcement Learning.
+- **Transfer Learning**: Fine-tune deep learning models.
+- **Model Explainability**: SHAP, LIME, and Integrated Gradients.
+- **Compression**: Pruning & Quantization for model optimization.
+
+## 📦 Installation
+```bash
+pip install deepindx
+
+

@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+deepindx.egg-info/PKG-INFO
+deepindx.egg-info/SOURCES.txt
+deepindx.egg-info/dependency_links.txt
+deepindx.egg-info/entry_points.txt
+deepindx.egg-info/requires.txt
+deepindx.egg-info/top_level.txt

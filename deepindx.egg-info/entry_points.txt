@@ -1,0 +1,6 @@
+[console_scripts]
+deepindx-compression = deepindx.compression.cli:main
+deepindx-explainer = deepindx.explainer.cli:main
+deepindx-nas = deepindx.nas.cli:main
+deepindx-transfer = deepindx.transfer.cli:main
+
